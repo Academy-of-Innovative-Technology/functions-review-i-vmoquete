@@ -1,10 +1,10 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=21339880&assignment_repo_type=AssignmentRepo)
+
 # 🧠 JavaScript Function Review
 
-This project is to review **how to define and call functions** in JavaScript — both **with parameters** and **without parameters**.  
+This project is to review **how to define and call functions** in JavaScript — both **with parameters** and **without parameters**.
 
-[Demo](https://output.jsbin.com/kixefog/): https://output.jsbin.com/kixefog/
----
+## [Demo](https://output.jsbin.com/kixefog/): https://output.jsbin.com/kixefog/
 
 ## 🎯 Learning Objectives
 
@@ -13,18 +13,18 @@ By the end of this activity, you should be able to:
 1. **Define functions** in JavaScript.
 2. **Call functions without parameters** (no input values needed).
 3. **Call functions with parameters** (functions that take input values).
-4. **Use DOM methods** like 
-    `document.getElementById()`
-    `document.getElementsByClassname()`
-    `document.querySelector()`
-     to update content on the web page.
+4. **Use DOM methods** like
+   `document.getElementById()`
+   `document.getElementsByClassname()`
+   `document.querySelector()`
+   to update content on the web page.
 5. Understand how data flows **into** and **out of** a function.
 
 ---
 
 ## 🧩 Tasks for Students
 
-### 🔹 Part 1: Functions with *No Parameters*
+### 🔹 Part 1: Functions with _No Parameters_
 
 In the `script.js` file
 
@@ -38,8 +38,9 @@ In the `script.js` file
 
 1. Complete the last one.
 
+finish...
 
-### 🔹 Part 2: Functions with *Parameters*
+### 🔹 Part 2: Functions with _Parameters_
 
 ## Display the print in the output2
 
@@ -53,14 +54,12 @@ In the `script.js` file
 
 1. Complete the last one.
 
-
 ### 🔹 Part 3: Event Listeners
 
-### 🔹 Part 1: Functions with *No Parameters*
+### 🔹 Part 1: Functions with _No Parameters_
 
 1. Create event listeners for each button and call the relevant function
 
-### 🔹 Part 2: Functions with *Parameters*
+### 🔹 Part 2: Functions with _Parameters_
 
 1. Create event listeners for each button and call the relevant function with the values being asked from the button.
-
